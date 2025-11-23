@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="imgs/gunslinger.gif" alt="ginslinger">
+
 <!--
 **qn1x-afk/qn1x-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
